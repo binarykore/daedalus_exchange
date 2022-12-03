@@ -1,2 +1,3 @@
-# daedalus_exchange
-Daedalus Marketing (PPC / CPC) Exchange..
+# Daedalus Exchange
+
+* Daedalus Marketing (PPC / CPC) Exchange..
